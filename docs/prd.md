@@ -1,5 +1,4 @@
-# PRD content with improvements, split into smaller parts for clarity
-prd_content_part1 = """# Product Requirements Document (PRD): AI Legal Advisor Agent
+# Product Requirements Document (PRD): AI Legal Advisor Agent
 
 **Project Naam**: AI Legal Advisor Agent
 **Versie**: 1.1
